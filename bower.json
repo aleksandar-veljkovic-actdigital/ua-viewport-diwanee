@@ -15,7 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "ua-parser-js": "~0.7.9",
-    "ua-parser-diwanee-js": "~1.0.3"
+    "ua-parser-js": "*",
+    "ua-parser-diwanee-js": "*"
   }
 }
