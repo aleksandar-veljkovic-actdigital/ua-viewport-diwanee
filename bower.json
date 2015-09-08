@@ -15,7 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "ua-parser-js": "*",
-    "ua-parser-diwanee-js": "*"
+    "ua-parser-js": ">=0.0.0",
+    "ua-parser-diwanee-js": ">=0.0.0"
   }
 }
